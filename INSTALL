@@ -1,0 +1,9 @@
+Building FBcoin
+
+See doc/readme-qt.rst for instructions on building FBcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FBcoin.
+
+See doc/build-*.txt for instructions on building FBcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FBcoin.
